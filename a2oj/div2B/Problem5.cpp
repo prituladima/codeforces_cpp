@@ -8,17 +8,15 @@
 
 using namespace std;
 
-int main() {
+int main5() {
 
     ll n, l;
     cin >> n >> l;
     ll a[n];
 
-//    a[0] = 0;
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-//    a[n + 1] = l;
 
     sort(a, a + n);
 
