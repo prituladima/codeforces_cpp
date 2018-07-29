@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(codeforces_cpp)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(codeforces_cpp a2oj/div2B/Problem1.cpp a2oj/div2B/Problem2.cpp)
