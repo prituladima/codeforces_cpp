@@ -3,4 +3,4 @@ project(codeforces_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(codeforces_cpp a2oj/div2B/Problem1.cpp a2oj/div2B/Problem2.cpp a2oj/div2B/Problem3.cpp a2oj/div2B/Problem4.cpp a2oj/div2B/Problem5.cpp a2oj/div2B/Problem6.cpp a2oj/div2B/Problem7.cpp a2oj/div2B/Problem8.cpp a2oj/div2B/Problem9.cpp a2oj/div2B/Problem10.cpp a2oj/div2B/Problem11.cpp)
+add_executable(codeforces_cpp a2oj/div2B/Problem1.cpp a2oj/div2B/Problem2.cpp a2oj/div2B/Problem3.cpp a2oj/div2B/Problem4.cpp a2oj/div2B/Problem5.cpp a2oj/div2B/Problem6.cpp a2oj/div2B/Problem7.cpp a2oj/div2B/Problem8.cpp a2oj/div2B/Problem9.cpp a2oj/div2B/Problem10.cpp a2oj/div2B/Problem11.cpp a2oj/div2B/Problem12.cpp)
