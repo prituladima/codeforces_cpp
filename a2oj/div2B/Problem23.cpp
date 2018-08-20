@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int main() {
+int main23() {
 
     int p, q, l, r;
 
